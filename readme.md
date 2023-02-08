@@ -1,8 +1,7 @@
 # HelloWorld
 
 
-My name is Anas 
+My name is Anas Alshehri 
 
-for i in range (1,9){
-    print (i)
-}
+# Whats new 
+Added main.py 
